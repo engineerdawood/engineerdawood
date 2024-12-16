@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @engineerdawood
-- 👀 I’m interested in Technology.
-- 🌱 I’m currently learning Cloud, Linux, Python & Business Management.
-- 💞️ I’m looking to collaborate on Open Source Business Projects.
-- 📫 How to reach me muhammad@dawood.pk
+- 🌱 I’m working with Cloud, Linux, Python, Php & Business Management.
+- 💞️ You next tech dev.
+- 📫 How to reach me muhammad@rigrex.com
 - 📫 My Website: https://dawood.pk
+- 📫 My Company Website: https://rigrex.com
 
 <!---
 engineerdawood/engineerdawood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
