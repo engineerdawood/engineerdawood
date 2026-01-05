@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @engineerdawood
-- 🌱 I’m working with Cloud, Linux, Python, Php & Business Management.
-- 💞️ You next tech dev.
-- 📫 How to reach me muhammad@rigrex.com
-- 📫 My Website: https://dawood.pk
-- 📫 My Company Website: https://rigrex.com
+- 🌱 I’m love working with Full Stack Applications.
+- 💞️ Your next tech dev.
+- 📫 How to reach me:
+- - muhammad@rigrex.com
+- - https://www.rigrex.com
 
 <!---
 engineerdawood/engineerdawood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
