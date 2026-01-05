@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @engineerdawood
-- 🌱 I’m love working with Full Stack Applications.
+- 🌱 I love working with Full Stack Applications.
 - 💞️ Your next tech dev.
 - 📫 How to reach me:
 - - muhammad@rigrex.com
