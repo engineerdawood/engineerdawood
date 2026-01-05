@@ -2,8 +2,9 @@
 - 🌱 I love working with Full Stack Applications.
 - 💞️ Your next tech dev.
 - 📫 How to reach me:
-- - muhammad@rigrex.com
-- - https://www.rigrex.com
+  - muhammad@rigrex.com
+  - https://www.linkedin.com/in/engineerdawood/
+  - https://www.rigrex.com
 
 <!---
 engineerdawood/engineerdawood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
